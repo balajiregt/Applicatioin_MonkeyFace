@@ -18,12 +18,16 @@ body{
     user-select: none;
 }
 
-.closed{
+.see-no{
     display: none;
 }
 
-.open{
+.hear-no{
     display: none;
+}
+
+.speak-no{
+    display: none
 }
 
 .active{
